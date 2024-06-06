@@ -328,6 +328,8 @@ ghcr.io/daocloud/dao-2048
 ghcr.io/daocloud/netmaterial
 ghcr.io/dexidp/dex
 ghcr.io/dtzar/helm-kubectl
+ghcr.io/mosn/htnn-controller
+ghcr.io/mosn/htnn-gateway
 ghcr.io/hwameistor/admission
 ghcr.io/hwameistor/apiserver
 ghcr.io/hwameistor/drbd9-bionic
